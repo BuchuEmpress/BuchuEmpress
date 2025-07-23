@@ -6,7 +6,8 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/empress-buchu-969b06375" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<img src="<a href="https://www.linkedin.com/in/empress-buchu-969b06375" target="_blank">
+"  />
 </a>
 <a href="https://x.com/empresssnow19?t=qv8AJC3HFv_ABQqQWvQOjw&s=09" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
