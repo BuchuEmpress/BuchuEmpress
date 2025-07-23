@@ -33,7 +33,8 @@
 ###
 
 <div align="center">
-<img src="<a href="https://ibb.co/spWZYdcP"><img src="https://i.ibb.co/DPrZ2Hmb/2024-08-05-04-03-IMG-8209.jpg" alt="2024-08-05-04-03-IMG-8209" border="0"></a>" />
+<img src="https://i.ibb.co/XYZ123/banner.png" />
+
 </div>
 
 ### <br clear="both">
