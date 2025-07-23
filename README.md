@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuchuEmpress.BuchuEmpress" />
+  https://i.ibb.co/JW39Jw8d/2024-08-05-04-03-IMG-8209.jpg
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Buchu Empress</h1>
