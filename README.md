@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-<img src="https://i.ibb.co/L1mQwXv/avatar-placeholder.png" alt="profile-banner" />
+<img src="<a href="https://ibb.co/spWZYdcP"><img src="https://i.ibb.co/DPrZ2Hmb/2024-08-05-04-03-IMG-8209.jpg" alt="2024-08-05-04-03-IMG-8209" border="0"></a>" />
 </div>
 
 ### <br clear="both">
